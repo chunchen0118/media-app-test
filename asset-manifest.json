@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/media-app-test/static/css/main.6b4b2089.css",
+    "main.js": "/media-app-test/static/js/main.06795d25.js",
+    "static/js/453.ca9800fe.chunk.js": "/media-app-test/static/js/453.ca9800fe.chunk.js",
+    "static/media/pose_landmarker_full.task": "/media-app-test/static/media/pose_landmarker_full.489aec7c18c9473b17b5.task",
+    "static/media/gesture_recognizer.task": "/media-app-test/static/media/gesture_recognizer.e6da305402bc70831b76.task",
+    "static/media/hand_landmarker.task": "/media-app-test/static/media/hand_landmarker.f37688b46bf8ca58fde8.task",
+    "static/media/face_landmarker.task": "/media-app-test/static/media/face_landmarker.671b47307d70e9bf1540.task",
+    "static/media/slick.svg": "/media-app-test/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/media-app-test/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/media-app-test/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/media-app-test/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/media-app-test/index.html",
+    "main.6b4b2089.css.map": "/media-app-test/static/css/main.6b4b2089.css.map",
+    "main.06795d25.js.map": "/media-app-test/static/js/main.06795d25.js.map",
+    "453.ca9800fe.chunk.js.map": "/media-app-test/static/js/453.ca9800fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b4b2089.css",
+    "static/js/main.06795d25.js"
+  ]
+}
