@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/media-app-test/static/css/main.6b4b2089.css",
-    "main.js": "/media-app-test/static/js/main.e0eea69c.js",
+    "main.js": "/media-app-test/static/js/main.dd7744c7.js",
     "static/js/453.ca9800fe.chunk.js": "/media-app-test/static/js/453.ca9800fe.chunk.js",
     "static/media/pose_landmarker_full.task": "/media-app-test/static/media/pose_landmarker_full.489aec7c18c9473b17b5.task",
     "static/media/gesture_recognizer.task": "/media-app-test/static/media/gesture_recognizer.e6da305402bc70831b76.task",
@@ -13,11 +13,11 @@
     "static/media/slick.woff": "/media-app-test/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/media-app-test/index.html",
     "main.6b4b2089.css.map": "/media-app-test/static/css/main.6b4b2089.css.map",
-    "main.e0eea69c.js.map": "/media-app-test/static/js/main.e0eea69c.js.map",
+    "main.dd7744c7.js.map": "/media-app-test/static/js/main.dd7744c7.js.map",
     "453.ca9800fe.chunk.js.map": "/media-app-test/static/js/453.ca9800fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b4b2089.css",
-    "static/js/main.e0eea69c.js"
+    "static/js/main.dd7744c7.js"
   ]
 }
