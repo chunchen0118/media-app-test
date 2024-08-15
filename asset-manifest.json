@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/media-app-test/static/css/main.6b4b2089.css",
-    "main.js": "/media-app-test/static/js/main.64ce8d3e.js",
+    "main.js": "/media-app-test/static/js/main.7ad705a1.js",
     "static/js/453.d1fd7194.chunk.js": "/media-app-test/static/js/453.d1fd7194.chunk.js",
     "static/media/gesture_recognizer.task": "/media-app-test/static/media/gesture_recognizer.e6da305402bc70831b76.task",
     "static/media/hand_landmarker.task": "/media-app-test/static/media/hand_landmarker.f37688b46bf8ca58fde8.task",
@@ -12,11 +12,11 @@
     "static/media/slick.woff": "/media-app-test/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/media-app-test/index.html",
     "main.6b4b2089.css.map": "/media-app-test/static/css/main.6b4b2089.css.map",
-    "main.64ce8d3e.js.map": "/media-app-test/static/js/main.64ce8d3e.js.map",
+    "main.7ad705a1.js.map": "/media-app-test/static/js/main.7ad705a1.js.map",
     "453.d1fd7194.chunk.js.map": "/media-app-test/static/js/453.d1fd7194.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b4b2089.css",
-    "static/js/main.64ce8d3e.js"
+    "static/js/main.7ad705a1.js"
   ]
 }
